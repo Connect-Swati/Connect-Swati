@@ -1,47 +1,99 @@
-# Swati - Senior Software Engineer
+# Swati - Senior Software Engineer 🚀
 
-Welcome to my GitHub profile! I am a Senior Software Engineer with over 4 years of experience in backend development, cloud technologies, and microservices architecture. Below, you'll find more information about my technical skills and certifications that demonstrate my commitment to continuous learning and excellence.
+Welcome to my GitHub profile! I am a Senior Software Engineer with over four years of experience in backend development, cloud infrastructure, and microservices architecture. My expertise lies in designing and implementing scalable, robust systems that drive efficiency and performance. Below, you’ll find an overview of my technical skills, certifications, and professional projects that showcase my dedication to continuous learning and excellence in software engineering.
 
-## 🔧 Tech Stack
-I have hands-on experience with a variety of tools and technologies in backend development, cloud computing, and software engineering:
+---
 
-- **Programming Languages**: Java, SQL, Shell Scripting, Node.js, Express.js
+## 🛠️ Tech Stack & Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+I am proficient in a variety of tools and technologies in backend development, cloud computing, and software engineering:
+
+- **Languages**: Java, SQL, Shell Scripting, JavaScript (Node.js, Express.js)
 - **Frameworks**: Spring Boot, Spring Framework, Microservices, Maven
-- **Cloud Technologies**: AWS (S3, EC2, CloudWatch), Google Cloud Platform (GCP)
+- **Cloud Services**: AWS (S3, EC2, CloudWatch), Google Cloud Platform (GCP)
 - **Containers & Orchestration**: Docker, Kubernetes, Helm, Garden
 - **CI/CD Tools**: GitHub, GitLab, Jenkins
-- **Message Queues & Caching**: Kafka, Redis
+- **Messaging & Caching**: Kafka, Redis
 - **Databases**: MongoDB, PostgreSQL, Oracle, SQLite
-- **Other Tools**: Linux, SonarQube, Veracode, Agile Methodologies, JUnit, Software Testing, Debugging
+- **Other**: Linux, SonarQube, Veracode, Agile Methodologies, JUnit, Software Testing, Debugging
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my key projects that highlight my expertise in backend development, security, and cloud architecture:
+
+### 1. Remove Dependency on EFS and Implement Multi-tenant Architecture
+   - **Company**: Uniphore
+   - **Description**: Enhanced multi-tenant security by removing dependency on EFS and implementing AWS S3. Utilized Kubernetes and Helm for a scalable solution.
+   - **Skills**: Multi-tenant architecture, AWS, Linux
+   - **Impact**: Strengthened data protection and reduced risk by eliminating audio file dependencies.
+
+### 2. Vulnerability & Risk Assessment and Fixes
+   - **Company**: Uniphore
+   - **Description**: Conducted comprehensive vulnerability assessment using Veracode and integrated security scans in CI/CD pipelines.
+   - **Skills**: Risk Analysis, Security Scanning, CI/CD Integration
+   - **Impact**: Reduced product risk score significantly, improving product security.
+
+### 3. MongoDB Purging Script using JS
+   - **Company**: Uniphore
+   - **Description**: Created a MongoDB purging script to free up space based on retention dates.
+   - **Skills**: JavaScript, Shell Scripting, MongoDB Management
+   - **Impact**: Optimized database performance and storage utilization.
+
+### 4. Automated Reports System
+   - **Company**: Comviva
+   - **Description**: Developed an automated report generation system leveraging Oracle, PostgreSQL, and Pentaho for transaction analysis.
+   - **Skills**: Data Analysis, Automation, Reporting
+   - **Impact**: Enhanced data quality and reliability through streamlined report generation.
+
+### 5. Data Migration Project
+   - **Company**: Comviva
+   - **Description**: Conducted seamless data migration for Mobiquity Money product, ensuring data consistency.
+   - **Skills**: Data Migration, SQL, Database Management
+   - **Impact**: Enabled continuity of operations and smooth transition to the upgraded platform.
+
+### 6. Spring Boot Microservices for Biller Category
+   - **Company**: Comviva
+   - **Description**: Developed Spring Boot microservices to modularize the Money product's Biller Management component.
+   - **Skills**: Spring Boot, Microservices Architecture
+   - **Impact**: Improved scalability and maintainability by transitioning from a monolithic architecture.
+
+---
 
 ## 📜 Certifications
-Here are some of the key certifications I have earned to stay up-to-date with industry trends and enhance my skills:
 
-- **Manage Kubernetes in Google Cloud** - Google Cloud (2024)  
-  I gained hands-on experience managing Kubernetes clusters on Google Cloud, focusing on deploying and scaling applications in a secure environment.
+- **Manage Kubernetes in Google Cloud** - Google Cloud (2024)
+- **Building Scalable Java Microservices with Spring Boot and Spring Cloud** - Google Cloud (2024)
+- **AWS Technical Essentials** - AWS (2021)
+- **The Machine Learning Pipeline on AWS** - AWS (2021)
+- **Software Engineer Certificate** - HackerRank (2024)
+- **Java (Basic) Certificate** - HackerRank (2024)
+- **Problem Solving (Intermediate) Certificate** - HackerRank (2021)
 
-- **Building Scalable Java Microservices with Spring Boot and Spring Cloud** - Google Cloud (2024)  
-  This certification focuses on building and managing Java microservices, learning how to use Spring Boot and Spring Cloud to create scalable, cloud-native applications.
+These certifications demonstrate my commitment to staying updated with industry trends and continuously enhancing my skill set.
 
-- **AWS Technical Essentials** - AWS (2021)  
-  This course provided a strong foundation in AWS cloud services, covering compute, storage, databases, networking, and security features.
+---
 
-- **The Machine Learning Pipeline on AWS** - AWS (2021)  
-  I explored how to implement a machine learning pipeline using AWS, focusing on scalable data processing and model deployment in production environments.
+## 🌐 Professional Portfolio
 
-- **Software Engineer Certificate** - HackerRank (2024)  
-  This certification validates my skills in backend development, problem-solving, and algorithm design.
+For a comprehensive view of my projects and professional journey, please visit my [portfolio website](https://www.connectswati.tech).
 
-- **Java (Basic) Certificate** - HackerRank (2024)  
-  This certificate highlights my proficiency in core Java programming, including object-oriented concepts, control structures, and error handling.
+---
 
-- **Problem Solving (Intermediate) Certificate** - HackerRank (2021)  
-  This certificate focuses on data structures and algorithms, demonstrating my ability to solve complex programming challenges efficiently.
+## 📞 Contact
 
-## 🌍 Professional Portfolio
-For more information about my projects and professional journey, visit my portfolio:  
-[www.connectswati.tech](https://www.connectswati.tech/)
+Feel free to reach out to discuss potential collaborations or learn more about my work.
 
-## 📧 Contact
 - **Email**: [swati.manit.85@gmail.com](mailto:swati.manit.85@gmail.com)
 - **LinkedIn**: [linkedin.com/in/connectswati](https://linkedin.com/in/connectswati)
+
+---
+
