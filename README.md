@@ -91,8 +91,6 @@ For a comprehensive view of my projects and professional journey, please visit m
 ## 📞 Contact
 
 Feel free to reach out to discuss potential collaborations or learn more about my work.
-
-- **Email**: [swati.manit.85@gmail.com](mailto:swati.manit.85@gmail.com)
 - **LinkedIn**: [linkedin.com/in/connectswati](https://linkedin.com/in/connectswati)
 
 ---
