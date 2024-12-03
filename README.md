@@ -66,6 +66,11 @@ Here are some of my key projects that highlight my expertise in backend developm
    - **Skills**: Spring Boot, Microservices Architecture
    - **Impact**: Improved scalability and maintainability by transitioning from a monolithic architecture.
 
+Detailed Project Descriptions
+For a comprehensive breakdown of each project, including technical architecture, challenges, solutions, and impact:
+
+👉 Click [Here](https://github.com/Connect-Swati/Connect-Swati/blob/main/ProjectComprehensiveDetails.md) for Detailed Project Descriptions 
+
 ---
 
 ## 📜 Certifications
